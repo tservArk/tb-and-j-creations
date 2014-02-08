@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tb And J Creations
 =========
 
@@ -139,3 +140,7 @@ License
 --
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+=======
+tb-and-j-creations
+==================
+>>>>>>> 0319eda1ce077d040b1d651f15e5c483d4a250a9
