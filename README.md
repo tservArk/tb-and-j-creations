@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Tb And J Creations
-=========
+
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
@@ -140,7 +138,4 @@ License
 --
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-=======
-tb-and-j-creations
-==================
->>>>>>> 0319eda1ce077d040b1d651f15e5c483d4a250a9
+
